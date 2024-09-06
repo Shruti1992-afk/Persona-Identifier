@@ -13,7 +13,6 @@ def app():
   # Set the page title and background color
   st.set_page_config(
       page_title="Persona Identification Tool",
-      page_config_layout="wide",
   )
 
   # Add a container for the app title
